@@ -99,8 +99,8 @@ nav div {
         font-size: 0.8em;
     }
     .mainmenu a:hover, .mainmenu a:active, .navmain a:hover, .navmain a:active {
-        padding: 0.3em;
-        border-radius: 6px;
+        padding: 0.2em;
+        border-radius: 8px;
     }
 }
 
@@ -111,6 +111,7 @@ header {
     font-family: "Caudex", serif;
     font-weight: 600;
 }
+
 h1 {
     text-align: left;
     margin: 1.5rem;
@@ -140,6 +141,17 @@ h2, h3 {
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
+}
+@media (max-width: 768px) {
+    h1, .subtitle {
+        text-align: center;
+    }
+    h1 {
+        font-size: 4rem;
+    }
+    .subtitle {
+        font-size: 1.3em;
+    }
 }
 h2 {
     font-size: 1.6rem;
@@ -174,18 +186,6 @@ img {
     width: 70%;
     height: 70%;
 }
-/* .imgfloat {
-    float: left;
-    margin-right: 1.6rem;
-    margin-bottom: 1rem;
-}
-#cover {
-    display: block;
-    width: 70%;
-    height: 70%;
-    margin-left: auto;
-    margin-right: auto;
-} */
 
 /* intro */
 .intro {
@@ -224,15 +224,27 @@ main {
     font-size: 0.9rem;
 }
 
+.righttext /* tutti gli h2 dispari */ {
+    text-align: left;
+}
+.lefttext /* tutti gli h2 pari */ {
+    text-align: right;
+}
+@media (max-width: 768px) {
+    main {
+        margin-right: 0;
+    }
+    .text_flex p {
+        margin: 0;
+    }
+    .righttext, .lefttext {
+        text-align: center;
+    }
+}
 @media (max-width: 1024px) {
-    .flex-cont {
-        display: block;
+    .sect {
+        flex-wrap: wrap;
     }
-    aside {
-        margin-top: 1.2rem;
-        justify-content: space-between;
-    }
-    main { margin-right: 0;}
 }
 section {
     margin-top: 2rem;
@@ -493,4 +505,13 @@ footer p {
 }
 .footer-left {
     font-size: 0.9em;
+}
+
+@media (max-width: 1024px) {
+    .footer-left, .footer-right {
+        margin: auto;
+    }
+    .footer-right {
+        margin-bottom: 1.4rem;
+    }
 }
