@@ -1,0 +1,21 @@
+La più importante industria di cantieristica navale varazzina, i **Cantieri Baglietto**, viene fondata nel 1858 da Pietro Baglietto, e ottiene la concessione per la costruzione del proprio cantiere lungo la spiaggia nel 1890, decennio in cui i Baglietto realizzano la prima barca a deriva mobile in Liguria (1894) e iniziano a specializzarsi nella costruzione di barche da regata e yacht.
+
+# Gli anni d'oro
+
+Con la seconda generazione della famiglia al vertice, a partire dagli anni Dieci del Novecento, sotto la guida di Bernardo Baglietto, diventano una delle piú interessanti ed importanti realtà economiche cittadine, imponendosi rispetto alla concorrenza, arrivando ad avere due stabilimenti alle due entrate del centro cittadino, costruendo imbarcazioni da diporto per committenti dell'alta società italiana e non solo – in documenti d'archivio come i registri contabili e i libri mastro conservati presso l'Archivio storico comunale si scorgono nomi come quelli di Giacomo Puccini (che soggiornava spesso a Varazze presso l'amico Francesco Cilea), di Enrico Alberto d'Albertis, ma anche committenti francesi, spagnoli o argentini – e imbarcazioni vincitrici di prestigiose regate internazionali; molti anni piú tardi, nel periodo fra le due guerre, i Baglietto riceveranno una commessa da parte di Gabriele D'Annunzio per la costruzione del motoryacht *Alcione*, varato nel 1932.
+
+## L'esperienza della C.I.V.E.S.
+
+Durante il primo conflitto mondiale, la **C.I.V.E.S.** (Costruzione Idrovolanti Varazze E Scuola), nata come costola dei Baglietto in campo aeronautico, costruisce per conto della Marina Militare diversi idrovolanti che si uniscono alla fornitura da parte dei Cantieri di mezzi bellici nautici come i M.A.S. (Motoscafi Armati Siluranti), acquisendo un'esperienza in campo tecnologico tale per cui, terminata la guerra, nasceranno dalle ceneri dell'esperienza della C.I.V.E.S. due realtà industriali di rilievo nella storia italiana: la **Motori De Giorgi** e la **Moto Guzzi**, il cui primo prototipo, "GP" dalle iniziali dei due fondatori Guzzi e Parodi, fu costruito proprio a Varazze.
+
+## Fra le due guerre
+
+Nel periodo fra le due guerre, soprattutto dopo l'ingresso in società del quarto figlio di Pietro, Vincenzo Vittorio, laureato in ingegneria navale a Glasgow ed ex militare, i Cantieri Baglietto progetteranno e costruiranno motoscafi ultraleggeri che vincono numerose gare sportive, stabilendo numerosi record di velocità nelle più importanti competizioni dell'epoca.10 In anni piú tardi i cantieri riceveranno commesse da parte di Guglielmo Marconi per il riallestimento dell'Elettra, di capi di stato stranieri, di Vittorio Emanuele III, della Regina Elena e di Benito Mussolini, nonché di eserciti stranieri come quello giapponese, a testimonianza dell'importanza raggiunta dai Cantieri Baglietto nella costruzione di motoscafi, barche da diporto, e imbarcazioni da guerra.
+
+La costruzione di imbarcazioni a motore, la novità più in voga fra la clientela del primo Novecento, diventa proprio la specializzazione dei Baglietto, che riescono così a distinguersi in un settore economico dove i cantieri tradizionali erano oramai ridimensionati e le grandi navi venivano costruite in enormi stabilimenti di dimensioni molto maggiori – che non avrebbero potuto essere insediati per semplici motivi geografici in un territorio come quello varazzino – fra cui il piú importante restava quello di Sestri Ponente.
+
+## I cantieri, oggi
+
+I Cantieri Baglietto, dopo una serie di lunghe crisi cominciate alla fine degli anni Sessanta, conseguentemente a un calo dell'intero settore nautico e in particolare della domanda di yacht di lusso sono falliti nel 1983 e, dopo una serie di vicissitudini societarie e amministrazioni controllate, e nonostante un breve periodo di rilancio a fine anni Novanta con la produzione a Varazze, hanno spostato negli l'interità della loro attività cantieristica alla Spezia, chiudendo definitivamente l'impianto varazzino nel 2010.
+
+Gli impianti industriali superstiti, nel quartiere di San Nazario nella parte occidentale di Varazze, risalenti alla costituzione della C.I.V.E.S. nel 1915, sono stati in gran parte abbattuti nel 2019 per dar via a un progetto di riqualificazione urbana.
