@@ -6,7 +6,7 @@ Neer nasce a Casanova, frazione sulle alture varazzine, l'11 aprile 1860. Si avv
 
 Presa un'aspettativa speciale dal servizio nell'esercito e ritornato a Varazze, a partire dal 1902 Neer esercita professionalmente come fotografo e, nei vent'anni successivi, diventa celeberrimo prima nel levante savonese e poi in tutta la Riviera, anche grazie alle sue conoscenze con importanti personalità e famiglie aristocratiche della regione, fra cui si citano i marchesi di Invrea, l'imprenditore e senatore del Regno d'Italia Eugenio Figoli des Geneys e il capitano Enrico Alberto d'Albertis; per questi committenti aristocratici o dell'élite italiana dell'epoca realizza numerosi fotoritratti e scatti fotografici delle loro dimore.
 
-# I tuffi e l'élite
+## I tuffi e l'élite
 
 Particolarmente interessanti dal punto di vista artistico sono le foto scattate da Neer ai turisti sulle spiagge, soprattutto varazzine – essendo Varazze l'unico posto dove si dedicò anche a foto di gruppi in spiaggia – e soprattutto i tuffi dei bagnanti dai trampolini allora dislocati nella maggior parte degli stabilimenti, talvolta in modalità oggi inconsuete come persone che si tuffavano in bicicletta, con giacca, cappello e pipa in bocca, o in abiti diversi. Questo ambito della produzione di Neer documenta il turismo balneare di inizio Novecento in una forma inconsueta, mostrando il divertimento da parte della gente comune.
 

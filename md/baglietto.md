@@ -1,6 +1,6 @@
 La più importante industria di cantieristica navale varazzina, i **Cantieri Baglietto**, viene fondata nel 1858 da Pietro Baglietto, e ottiene la concessione per la costruzione del proprio cantiere lungo la spiaggia nel 1890, decennio in cui i Baglietto realizzano la prima barca a deriva mobile in Liguria (1894) e iniziano a specializzarsi nella costruzione di barche da regata e yacht.
 
-# Gli anni d'oro
+## Gli anni d'oro
 
 Con la seconda generazione della famiglia al vertice, a partire dagli anni Dieci del Novecento, sotto la guida di Bernardo Baglietto, diventano una delle piú interessanti ed importanti realtà economiche cittadine, imponendosi rispetto alla concorrenza, arrivando ad avere due stabilimenti alle due entrate del centro cittadino, costruendo imbarcazioni da diporto per committenti dell'alta società italiana e non solo – in documenti d'archivio come i registri contabili e i libri mastro conservati presso l'Archivio storico comunale si scorgono nomi come quelli di Giacomo Puccini (che soggiornava spesso a Varazze presso l'amico Francesco Cilea), di Enrico Alberto d'Albertis, ma anche committenti francesi, spagnoli o argentini – e imbarcazioni vincitrici di prestigiose regate internazionali; molti anni piú tardi, nel periodo fra le due guerre, i Baglietto riceveranno una commessa da parte di Gabriele D'Annunzio per la costruzione del motoryacht *Alcione*, varato nel 1932.
 
